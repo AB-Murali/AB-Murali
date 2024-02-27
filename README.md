@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm AB Murali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Angati Bala Murali</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-murali&label=Profile%20views&color=0e75b6&style=flat" alt="ab-murali" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab-murali" alt="ab-murali" /></a> </p>
 
-- 🔭 I’m currently working on **React Music Player**
-
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with **React**
-
-- 💬 Ask me about **GameDev, FrontEnd**
+- 💬 Ask me about **Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
